@@ -1,0 +1,15 @@
+Very Cold Temperature: -10 Celsius
+Cold Temperature: 0 Celsius
+Chilly Temperature: 5 Celsius
+
+h_x: 0.1m
+h_t: 0.0049s
+
+Max Average Room Temperature before heater turns off: 20 Celsius
+
+All from Wikipedia:
+Specific heat capacity of air: 1005 J / (kg * K)
+
+Air density: 1.1225 kg/m3
+
+Thermal conductivity for air: 0.025 W / (m * K)
